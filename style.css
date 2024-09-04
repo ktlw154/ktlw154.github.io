@@ -1,0 +1,192 @@
+
+body { background-color: #FFEBF5 ;
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 0px;
+    font-size: 1.5vw;
+}
+
+
+#logo {
+    margin: 0px;
+    padding: 8px;
+    font-family:"Russo One", sans-serif ;
+}
+
+ul {
+    margin: 0px;
+}
+
+body > header {
+    background-color: #461353;
+    color: #F2E5FF;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#nav-ul{
+    display: flex;
+}
+
+#nav-ul > li{
+    padding: 8px;
+    margin: 12px;
+}
+
+#intro {
+    font-family: Orbitron, sans-serif;
+    color: #D9B5E2;
+}
+
+#intro2 {
+    font-family: Quantico, sans-serif;
+    color: #a36e9a;
+}
+
+main > blockquote {
+    font-family: "Noto Serif", sans-serif;
+    color: #D499B9;
+    font-size: medium;
+}
+
+#links{
+    font-family: Quantico, sans-serif; 
+}
+
+.links2{
+    text-decoration: none;
+    color: #71226e;
+}
+
+
+h4{
+    font-family: Orbitron, sans-serif;
+    color: #461353;
+}
+
+#bio {
+    font-family: Kalam, sans-serif;
+    color: #71226e ;
+}
+
+#author{
+    font-family: Orbitron, sans-serif;
+    color: #D9B5E2 ;
+
+}
+
+#author > a{
+    font-family: "Mr Dafoe";
+    text-decoration: none;
+}
+
+main > p {
+    font-family: Quantico, sans-serif;
+    color: #a36e9a;
+}
+
+body > header > nav > ul{
+    list-style: none;
+    text-decoration: none;
+}
+
+.navbutton{
+    color: #F3ECF5;
+    text-decoration: none;
+    font-family: Orbitron, sans-serif;
+    padding: 12px;
+    border: 1px solid white;
+    border-radius: 12%;
+}
+
+body > main article {
+    width: 70%;
+    margin: auto;
+}
+
+#main-content{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+#main-content > div{
+    width: 95%;
+}
+
+form {
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+body>footer{
+    background-color: #CFA5DA;
+}
+
+#footer-ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    padding-left: 35%;
+    margin-bottom: 10px;
+}
+
+#footer-ul > div > li {
+    text-align: center;
+    margin-left: 25px;
+}
+
+#footer-ul > div > li > a {
+    text-decoration: none;
+    color: white;
+    align-items: center;
+}
+
+#footer-ul > div {
+    text-align: center;
+    align-items: center;
+}
+
+img{
+    border-radius: 35%;
+}
+
+#newsletter{
+    font-family: "Russo One", sans-serif;
+    color: #71226e;
+}
+
+.newsletter2{
+    font-family: "Montserrat Alternates" , sans-serif;
+}
+
+#forum{
+    font-family: "Russo One", sans-serif;
+    color: #71226e;
+}
+
+.forum2{
+    font-family: "Montserrat Alternates", sans-serif;
+}
+
+footer > h2{
+    font-family: "Russo One", sans-serif;
+    color: #461353;
+}
+
+
+.navbutt{
+    font-family: Orbitron, sans-serif;
+    text-decoration: none;   
+}
+
+#copyr {
+    font-weight: bold;
+    text-align: center;
+    color: #461353;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-small;
+}
