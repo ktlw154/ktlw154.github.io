@@ -16,7 +16,7 @@ body { background-color: #FFEBF5 ;
     display: flex;
     justify-content: space-between; /* Space between the logo/title and the nav */
     align-items: center; /* Vertically aligns the logo, h1, and nav links */
-    padding: 10px; /* Add padding as needed */
+    padding: 8px; /* Add padding as needed */
 }
 
 /* Container for the logo and the header */
@@ -27,7 +27,7 @@ body { background-color: #FFEBF5 ;
 
 /* Styling for the logo */
 .psyber {
-    margin-right: 10px; /* Space between logo and the h1 */
+    margin-right: 8px; /* Space between logo and the h1 */
     width: 50px; /* Adjust logo size */
     height: auto; /* Maintain aspect ratio */
 }
