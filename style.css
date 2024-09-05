@@ -179,11 +179,18 @@ body>footer{
 }
 
 /* Footer logos */
-.footer-logo {
+#footer-logo1 {
     width: 50px; /* Adjust logo size */
     height: auto; /* Maintain aspect ratio */
     margin: 0 50px; /* Add spacing between the logos and nav */
 }
+
+#footer-logo2 {
+    width: 50px; /* Adjust logo size */
+    height: auto; /* Maintain aspect ratio */
+    margin: 0 50px; /* Add spacing between the logos and nav */
+}
+
 
 
 img{
