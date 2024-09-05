@@ -8,8 +8,28 @@ body { background-color: #FFEBF5 ;
 
 #logo {
     margin: 0px;
-    padding: 8px;
+    padding: 3px;
     font-family:"Russo One", sans-serif ;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between; /* Space between the logo/title and the nav */
+    align-items: center; /* Vertically aligns the logo, h1, and nav links */
+    padding: 10px; /* Add padding as needed */
+}
+
+/* Container for the logo and the header */
+.logo-title {
+    display: flex;
+    align-items: center; /* Align logo and header vertically */
+}
+
+/* Styling for the logo */
+.psyber {
+    margin-right: 10px; /* Space between logo and the h1 */
+    width: 50px; /* Adjust logo size */
+    height: auto; /* Maintain aspect ratio */
 }
 
 ul {
