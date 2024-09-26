@@ -66,7 +66,8 @@ body > header {
 main > blockquote {
     font-family: "Noto Serif", sans-serif;
     color: #D499B9;
-    font-size: medium;
+    font-size: 1.5vw;
+    
 }
 
 #links{
